@@ -1,0 +1,1641 @@
+{
+    
+        "menu": [
+          {
+            "id": 1,
+            "name": "موبایل",
+            "sub_menu": [
+              {
+                "id": 1,
+                "name": "موبایل",
+                "imge":"https://www.technolife.ir/image/menu/phone.svg",
+                "sub_sub_menu": [
+                  { "id": 1, "name": "گوشی اپل" },
+                  { "id": 2, "name": " گوشی سامسونگ" },
+                  { "id": 3, "name": "   گوشی شیائومی" },
+                  { "id": 4, "name": "  گوشی داریا" },
+                  { "id": 5, "name": " گوشی پوکو" },
+                  { "id": 6, "name": "  گوشی گوگل" },
+                  { "id": 7, "name": "گوشی ریلمی" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "گوشی آنر " },
+                  { "id": 10, "name": "گوشی اینفینیکس" },
+                  { "id": 11, "name": "گوشی هواوی " },
+                  { "id": 12, "name": "گوشی ناتینگ فون " },
+                  { "id": 13, "name": "گوشی وان پلاس" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": " گوشی جی ال ایکس" },
+                  { "id": 16, "name": " گوشی داکس" },
+                  { "id": 17, "name": "گوشی کاجیتل " }
+
+                ]
+              },
+      
+              {
+                "id": 2,
+                "name": "پاوربانک",
+                "imge":"https://www.technolife.ir/image/menu/powerBank.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              },
+              {
+                "id": 3,
+                "name": "لوازم جانبی",
+                "imge":"https://www.technolife.ir/image/menu/phoneTools.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              },
+              {
+                "id": 4,
+                "name": " قطعات موبایل",
+                "imge":"https://www.technolife.ir/image/menu/phoneParts.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              },
+              {
+                "id": 5,
+                "name": "گوشی براساس عملکرد ",
+                "imge":"https://www.technolife.ir/image/menu/phoneFunction.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              },
+              {
+                "id": 6,
+                "name": "گوشی براساس حافظه",
+                "imge":"https://www.technolife.ir/image/menu/phoneMemory.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              },
+              {
+                "id": 7,
+                "name":"گوشی براساس عملکرد ",
+                "imge":"https://www.technolife.ir/image/menu/phonePrice.svg",
+                "sub_sub_menu": [
+                    { "id": 1, "name": " پاوربانک شیائومی " },
+                  { "id": 2, "name": " پاوربانک انکر " },
+                  { "id": 3, "name": "  اوربانک باسئوس  " },
+                  { "id": 4, "name": " پاوربانک پرووان  " },
+                  { "id": 5, "name": " پاوربانک تسکو " },
+                  { "id": 6, "name": " پاوربانک پاورولوجی  " },
+                  { "id": 7, "name": " پاوربانک adata" },
+                  { "id": 8, "name": "  گوشی موتورولا" },
+                  { "id": 9, "name": "پاوربانک ریمکس" },
+                  { "id": 10, "name": "پاوربانک سامسونگ " },
+                  { "id": 11, "name": " پاوربانک انرجایزر " },
+                  { "id": 12, "name": "پاوربانک سیلیکون پاور" },
+                  { "id": 13, "name": "  پاوربانک هیسکا" },
+                  { "id": 14, "name": " گوشی جی پلاس" },
+                  { "id": 15, "name": "پاوربانک مک دودو" }
+
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "لب تاپ و تب لت",
+            "sub_menu": [
+                {
+                  "id": 1,
+                  "name": "موبایل",
+                  "imge":"https://www.technolife.ir/image/menu/phone.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "iPhone 14" },
+                    { "id": 2, "name": "iPhone 13" }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "name": "پاوربانک",
+                  "imge":"https://www.technolife.ir/image/menu/powerBank.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "name": "لوازم جانبی",
+                  "imge":"https://www.technolife.ir/image/menu/phoneTools.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 4,
+                  "name": " قطعات موبایل",
+                  "imge":"https://www.technolife.ir/image/menu/phoneParts.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 5,
+                  "name": "گوشی براساس عملکرد ",
+                  "imge":"https://www.technolife.ir/image/menu/phoneFunction.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 6,
+                  "name": "گوشی براساس حافظه",
+                  "imge":"https://www.technolife.ir/image/menu/phoneMemory.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 7,
+                  "name":"گوشی براساس عملکرد ",
+                  "imge":"https://www.technolife.ir/image/menu/phonePrice.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                }
+              ]
+           },
+           
+          {
+            "id": 3,
+            "name": "هدفون هندزفری",
+            "sub_menu": [
+                {
+                  "id": 1,
+                  "name": "موبایل",
+                  "imge":"https://www.technolife.ir/image/menu/phone.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "iPhone 14" },
+                    { "id": 2, "name": "iPhone 13" }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "name": "پاوربانک",
+                  "imge":"https://www.technolife.ir/image/menu/powerBank.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "name": "لوازم جانبی",
+                  "imge":"https://www.technolife.ir/image/menu/phoneTools.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 4,
+                  "name": " قطعات موبایل",
+                  "imge":"https://www.technolife.ir/image/menu/phoneParts.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 5,
+                  "name": "گوشی براساس عملکرد ",
+                  "imge":"https://www.technolife.ir/image/menu/phoneFunction.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 6,
+                  "name": "گوشی براساس حافظه",
+                  "imge":"https://www.technolife.ir/image/menu/phoneMemory.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                },
+                {
+                  "id": 7,
+                  "name":"گوشی براساس عملکرد ",
+                  "imge":"https://www.technolife.ir/image/menu/phonePrice.svg",
+                  "sub_sub_menu": [
+                    { "id": 1, "name": "Galaxy S23" },
+                    { "id": 2, "name": "Galaxy Note 20" }
+                  ]
+                }
+              ]
+
+
+
+
+          },
+          {
+            "id": 4,
+            "name": "ساعت و بند هوشمند"
+          },
+          {
+            "id": 5,
+            "name": "کامپیوتر و ماشین اداری"
+          },
+          {
+            "id": 6,
+            "name": "شبکه و ذخیره سازی"
+          },
+          {
+            "id": 7,
+            "name": "گیمینگ"
+          },
+          {
+            "id": 8,
+            "name": "صوت تصویری"
+          },
+          {
+            "id": 9,
+            "name": "لوازم خانگی"
+          },
+          {
+            "id": 10,
+            "name": "ابزار الات"
+          },
+          {
+            "id": 11,
+            "name": "طلا و جواهر"
+          },
+          {
+            "id": 12,
+            "name": "فروشنده شو"
+          }
+        ],
+     
+
+    "menu_hamber":[
+        
+        {
+         "id": 1,
+          "name": "موبایل"
+        },
+        
+        {
+            "id": 2,
+            "name": "پاوربانک"
+        },
+        {
+            "id": 3,
+            "name": "هدفون هندزفری"
+        },
+        {
+            "id": 4,
+            "name": "ساعت و بند هوشمند"
+        },
+        {
+            "id": 5,
+            "name": "کامپیوتر و ماشین اداری"
+        },
+        {
+            "id": 6,
+            "name": "شبکه و ذخیره سازی"
+        },
+        {
+            "id": 7,
+            "name": "گیمینگ"
+        },
+        {
+            "id": 8,
+            "name": "صوت تصویری"
+        },
+        {
+            "id": 9,
+            "name": "لوازم خانگی"
+        },
+        {
+            "id": 10,
+            "name": "ابزار الات"
+        },
+        {
+            "id": 11,
+            "name": "طلا و جواهر"
+        },
+        {
+            "id": 12,
+            "name": "فروشنده شو"
+        }    
+
+    ],  
+    "swiper":[
+        {
+            
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_89nOhY_5909f227-3763-4862-b7ab-e7c650c55191.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_7DxWFX_bd9e63ee-1e83-4bb5-b6bf-de4630de7478.png",
+            "alt":"slide2"
+        },
+        {
+            "id":3,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_mzRm5N_a02601d4-cd55-42c4-8517-4a0ee63009c1.png",
+            "alt":"slide3"
+        },
+        {
+            "id":4,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_ZzjPhV_b6221e79-5ad4-40a4-9a5c-cb993e89a705.png",
+            "alt":"slide4"
+        },
+        {
+            "id":5,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_0v4vls_6acd54fc-0138-45e7-9ee3-198729ae533c.gif",
+            "alt":"slide5"
+        },
+        {
+            "id":6,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_1xYy61_19fa1146-e513-4d3d-a64b-f40246b09d7b.png",
+            "alt":"slide6"
+        },
+        {
+            "id":7,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_uzGCJt_1eefbb95-778e-4012-a23e-ea97c0fe8e7d.png",
+            "alt":"slide7"
+        },
+        {
+            "id":8,
+            "imge":"https://www.technolife.ir/image/banner_SlideBanner_x3vhUG_1c19f0ef-b636-4f5a-b81b-df08c55ba41c.png",
+            "alt":"slide8"
+        }
+    ],
+    "swiper_res":[
+        {
+            
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_xWZZpA_fc42559f-0ce0-4afb-ad01-cae48806b438.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide2"
+        },
+        {
+            "id":3,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide3"
+        },
+        {
+            "id":4,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide4"
+        },
+        {
+            "id":5,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide5"
+        },
+        {
+            "id":6,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide6"
+        },
+        {
+            "id":7,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide7"
+        },
+        {
+            "id":8,
+            "imge":"https://www.technolife.ir/image/banner_SlideBannerMobile_AvgiPU_47ac1a81-352f-488c-9378-e25cd168b1a0.png",
+            "alt":"slide8"
+        }
+    ],
+    "swiper_2":[
+        {
+        "id":1,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_bKYtgp_4aff6a4f-2ed8-4153-8368-b73fb6f16906.png",
+        "alt":"slide8",
+        "title":"لوازم جانبی"
+    },
+    {
+        "id":2,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_bKYtgp_4aff6a4f-2ed8-4153-8368-b73fb6f16906.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+    },
+    {
+        "id":3,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_fQ1JW9_41fda70e-7de4-40b9-abb1-cd09f48a21d2.png",
+        "alt":"slide8",
+         "title":"لوازم خانگی"
+    },
+    {
+        "id":4,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_fQ1JW9_41fda70e-7de4-40b9-abb1-cd09f48a21d2.png",
+        "alt":"slide8",
+         "title":"لوازم خانگی"
+    },
+    {
+        "id":5,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_ZF2YTy_bc869e82-f53c-40bb-b05c-65c5139585ee.png",
+        "alt":"slide8",
+         "title":"لوازم خانگی"
+    },
+    {
+        "id":6,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_1OkxTf_3df5aedb-33ef-4200-a81a-a1444bcedf0e.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":7,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_Y7NJVr_53eb4a9b-166c-4851-95c7-b02ef4a7c7be.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":8,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_OA82Op_8c4dff51-efe4-489a-b7f7-8a25856bb187.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":9,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_MIBn1s_75fda196-8a2f-4d07-bc9c-b49c252c9849.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":10,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_fQ1JW9_41fda70e-7de4-40b9-abb1-cd09f48a21d2.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":11,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_FgGs07_040c7036-93f8-4a6d-8ff5-dedb88183674.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    },
+    {
+        "id":12,
+        "imge":"https://www.technolife.ir/image/banner_CircleCategories_B574Ao_90b3facc-fc2c-4044-818d-596da0f3df78.png",
+        "alt":"slide8",
+        "title":"لوازم خانگی"
+
+    }
+     ],
+    "swiper_3":[
+        {
+            "p_title_time":"تکنو آف",
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-21125_b1b7408e-51e3-4fe6-afca-37f442aae5b0.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+            "qeimt_line_through":"8,800,800"
+
+
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-30090_2e5af278-ca64-489e-ab68-21ebcba01d54.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+            "qeimt_line_through":"8,800,800"
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-16306_f5489d76-39dc-47e0-a03b-d4a58c3e71d7.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        {
+          "p_title_time":"تکنو آف",
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-32105_16b3c15a-6f91-4acc-8a55-2f9099c3c0c3.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        {
+           "p_title_time":"تکنو آف",
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-38016_7b67e286-aed7-40cb-b90d-957125d421b8.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        { 
+            "p_title_time":"تکنو آف",
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-41242_5543e13e-8134-42a6-81d5-1431f7acd022.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+              "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"9,800,800"
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-29029_95b52e40-9492-4fd6-98cd-22c24c51b0b6.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+              "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        { 
+            "p_title_time":"تکنو آف",
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-38630_42d93fbc-6028-4e8f-917b-cad93a2edcee.png",
+             "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+               "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        }
+       
+
+    ],
+    "banner":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_CenterTripletBanners_VIRTvf_5603aacd-146d-4169-bbd8-7766c5d34b33.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_CenterTripletBanners_yv1K9i_bed9df53-9796-4ae9-b716-865fa8a7a54f.png",
+            "alt":"slide2"
+        },
+        {
+            "id":3,
+            "imge":"https://www.technolife.ir/image/banner_CenterTripletBanners_oNglQx_318b2e8c-37b7-490e-a107-aa5f767b3d7a.png",
+            "alt":"slide3"
+        }
+    ],
+    "swiper_4":[
+        {
+            "p_title_time":"تکنو آف",
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-4993_e62cc295-8d95-469e-bfa1-7bda32e2ee7b.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+            
+
+
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-33618_ad764cb3-fff3-4ba8-998f-a8f550cc519b.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+            
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-28800_c90207e3-ccdc-4630-900a-337299189f08.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-32105_16b3c15a-6f91-4acc-8a55-2f9099c3c0c3.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+           
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-28793_c8143e09-d41c-45a3-89cf-67cc8a8e8ce2.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+            
+        },
+        { 
+            
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-41242_5543e13e-8134-42a6-81d5-1431f7acd022.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+              "price":"8,800,800 تومان"
+            
+        },
+        {
+            
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-28793_c8143e09-d41c-45a3-89cf-67cc8a8e8ce2.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+              "price":"8,800,800 تومان"
+           
+        },
+        { 
+            "p_title_time":"تکنو آف",
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-38633_0df7b10c-d00c-43a3-a18a-2bff91bd9ec7.png",
+             "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+    
+        }
+       
+
+    ],
+    "banner_2":[
+        {
+
+            "id":1,
+            "imge":"https://www.technolife.ir/image/static_phone_samsung.png",
+            "title":"سامسونگ",
+            "alt":"slide1"
+        },
+        {
+
+            "id":2,
+            "imge":"https://www.technolife.ir/image/static_phone_poco.png",
+             "title":"پوکو",
+            "alt":"slide2"
+        },
+        {
+
+            "id":3,
+            "imge":"https://www.technolife.ir/image/static_phone_iphone.png",
+            "title":"ایفون",
+            "alt":"slide3"
+        },
+        {
+
+            "id":4,
+            "imge":"https://www.technolife.ir/image/static_phone_honor.png",
+            "title":"هونور",
+            "alt":"slide4"
+        },
+        {
+
+            "id":5,
+            "imge":"https://www.technolife.ir/image/static_phone_xiaomi.png",
+            "title":"شیایومی",
+            "alt":"slide5"
+        }
+        
+    ],
+    "banner_3":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_SingleFullWidthBanner_tnIS6y_019d132a-d25a-4b70-b20b-61fe14fd2f6c.png",
+            "alt":"slide1"
+        }
+    ],
+    "swiper_5":[
+        {
+           
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-49587_9c8a028d-67c0-47ae-8a2f-3319b86e388e.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+            
+
+
+        },
+        {
+            
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-38630_42d93fbc-6028-4e8f-917b-cad93a2edcee.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+            
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-33510_b51e39d8-011a-47cd-8e9e-d6096d4aebb0.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+           
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-3285_a8f64aad-e908-499c-902e-157f8412f822.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+          
+        },
+        {
+           
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-34355_4545095a-433b-4244-a9e4-44c604ac31b4.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+            
+        },
+        { 
+            
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-21137_408cd651-3a74-4620-b4b0-c25353436f3d.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+              "price":"8,800,800 تومان"
+            
+        },
+        {
+            
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-32656_341533e8-9a02-47e6-926f-262283cc2796.png",
+            "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+              "price":"8,800,800 تومان"
+           
+        },
+        { 
+            
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-20862_eb6bf998-8f57-4133-b0f9-73d33af5ebcf.png",
+             "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512 گیگابایت رم 12 گیگابایت",
+            "price":"8,800,800 تومان"
+    
+        }
+       
+
+    ],
+    "banner_4":[
+        {
+
+            "id":1,
+            "imge":"https://www.technolife.ir/image/static_laptop_asus.png",
+            "title":"ایسوس",
+            "alt":"slide1"
+        },
+        {
+
+            "id":2,
+            "imge":"https://www.technolife.ir/image/static_laptop_hp.png",
+             "title":"اچ پی",
+            "alt":"slide2"
+        },
+        {
+
+            "id":3,
+            "imge":"https://www.technolife.ir/image/static_laptop_mac.png",
+            "title":"مک بوک",
+            "alt":"slide3"
+        },
+        {
+
+            "id":4,
+            "imge":"https://www.technolife.ir/image/static_laptop_lenovo.png",
+            "title":"لنوو",
+            "alt":"slide4"
+        },
+        {
+
+            "id":5,
+            "imge":"https://www.technolife.ir/image/static_laptop_aser.png",
+            "title":"ایسر",
+            "alt":"slide5"
+        }
+        
+    ],
+    "banner_5":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_FirstTwinBanners_jhkY8S_fe2900c7-6d47-48be-b78a-240b9d52f320.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_FirstTwinBanners_L104Hj_715e05f2-ee66-45f5-95a1-b4ac4e4f96e1.png",
+            "alt":"slide2"
+        }
+    ],
+
+
+
+    "table_price_1":[
+        {
+          "id":1,
+          "title":"گوشی ساده" 
+        },
+        {
+            "id":2,
+            "title":"تا 15 میلیون" 
+        },
+        {
+            "id":3,
+            "title":"تا 25 میلیون" 
+        },
+        {
+            "id":4,
+            "title":"تا 30 میلیون" 
+        },
+        {
+            "id":5,
+            "title":"تا 35 میلیون" 
+        },
+        {
+            "id":6,
+            "title":"تا 50 میلیون"  
+        }
+    ],
+    "table_price_2":[
+        {
+          "id":1,
+          "title":"گیمینگ " 
+        },
+        {
+            "id":2,
+            "title":"دوربین" 
+        },
+        {
+            "id":3,
+            "title":"5G" 
+        },
+        {
+            "id":4,
+            "title":"باتری" 
+        },
+        {
+            "id":5,
+            "title":"ضد اب" 
+        },
+        {
+            "id":6,
+            "title":"شارژ سریع" 
+        }
+    ],
+    "banner_6":[
+        {
+
+            "id":1,
+            "imge":"https://www.technolife.ir/image/static_handsfree_qc.png",
+            "title":"کیوسی وای",
+            "alt":"slide1"
+        },
+        {
+
+            "id":2,
+            "imge":"https://www.technolife.ir/image/static_handsfree_haylou.png",
+             "title":"هایلو ",
+            "alt":"slide2"
+        },
+        {
+
+            "id":3,
+            "imge":"https://www.technolife.ir/image/static_handsfree_xiaomi.png",
+            "title":"شیایومی",
+            "alt":"slide3"
+        },
+        {
+
+            "id":4,
+            "imge":"https://www.technolife.ir/image/static_handsfree_apple.png",
+            "title":"اپل",
+            "alt":"slide4"
+        },
+        {
+
+            "id":5,
+            "imge":"https://www.technolife.ir/image/static_handsfree_samsung.png",
+            "title":"سامسونگ",
+            "alt":"slide5"
+        }
+      
+        
+        
+    ],
+    "banner_7":[
+        {
+
+            "id":1,
+            "imge":"https://www.technolife.ir/image/static_handsfree_huawei.png",
+            "title":"هوآوی",
+            "alt":"slide1"
+        },
+        {
+
+            "id":2,
+            "imge":"https://www.technolife.ir/image/static_handsfree_anker.png",
+             "title":"انکر ",
+            "alt":"slide2"
+        }
+    ],
+    "banner_8":[
+        {
+            "id":1,
+            "imge":"./imge/banner_SecondTwinBanners_GKUoan_d9b7e20d-7b6b-4840-9563-31ba2666a221.webp",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"./imge/banner_SecondTwinBanners_u8aaa8_2dee2d39-acdf-4941-9d86-62216069c829.webp",
+            "alt":"slide2"
+        }
+    ],
+    "slider_6":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_mC2WrB_f311ee91-0b70-402b-9bb3-8796b6847c77.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_yqE3hH_1a75ca9e-c20c-4ec2-9557-5e55e803138f.png",
+            "alt":"slide2"
+        },
+        {
+            "id":3,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_BBs0PS_6bf4becd-f428-4326-9808-be3434837c83.png",
+            "alt":"slide3"
+        },
+        {
+            "id":4,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_bWAkhn_e0514e1f-9e2f-493e-a8b3-00db541c98e9.png",
+            "alt":"slide4"
+        },
+        {
+            "id":5,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_GoWKQ2_de5baecb-e4fc-4b4b-a83d-d9ef67e493a8.png",
+            "alt":"slide5"
+        },
+        {
+            "id":6,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_Z8Z7sF_747136be-bdbe-4f81-8587-5034fa0640a4.png",
+            "alt":"slide6"
+        },
+        {
+            "id":7,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_9Qpb1k_541f8b8f-dfd3-488a-b02e-0960593c7860.png",
+            "alt":"slide7"
+        },
+        {
+            "id":8,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_PVvHxD_a5d30633-c84b-470c-bf63-a56e5fbdf9b6.png",
+            "alt":"slide8"
+        },
+        {
+            "id":9,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_sk0Pf9_90b94b5c-56f3-46fd-91de-4abfbc3718d3.png",
+            "alt":"slide9"
+        },
+        {
+            "id":10,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_0E0mGk_aff5d3ed-9b24-4ea4-8b0c-5d3949be06d3.png",
+            "alt":"slide10"
+        },
+        {
+            "id":11,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_dTwKZj_5d22a3d3-0de3-49ea-864a-67d96cb6bf6b.png",
+            "alt":"slide11"
+        },
+        {
+            "id":12,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_Ox33Xi_2b532dfb-3989-46d4-8d2d-b2c5b1e701fb.png",
+            "alt":"slide12"
+        },
+        {
+            "id":13,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_b7y0uY_5751d940-09de-416a-97e3-74689afbe6f8.png",
+            "alt":"slide13"
+        },
+        {
+            "id":9,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_sk0Pf9_90b94b5c-56f3-46fd-91de-4abfbc3718d3.png",
+            "alt":"slide9"
+        },
+        {
+            "id":14,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_b7y0uY_5751d940-09de-416a-97e3-74689afbe6f8.png",
+            "alt":"slide14"
+        },
+        {
+            "id":15,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_4WwdQW_d5786f7e-0e3d-4c7a-872c-f4c03ccd9c6d.png",
+            "alt":"slide15"
+        },
+        {
+            "id":16,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_Sqx9kE_2b68e096-95c9-4abf-83bc-08bdcd173f02.png",
+            "alt":"slide16"
+        },
+        {
+            "id":17,
+            "imge":"https://www.technolife.ir/image/banner_BrandBanners_MriHg0_39d5804c-aacf-4912-98cf-2a6fb4c38517.png",
+            "alt":"slide17"
+        }
+    ],
+
+
+    "swiper_7":[
+        {
+           
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-44034_192f9420-1a0b-49a5-89bf-b196d7dd962a.png",
+            "title":"تبلت پوکو مدل Poco Pad ظرفیت 256 گیگابایت رم 8 ...",
+            "price":"18,800,800 تومان"
+            
+
+
+        },
+        {
+            
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-43731_5ae40f88-5ec5-48b8-b60e-775f6b14aaf1.png",
+            "title":"تبلت جی ال ایکس مدل C8X 3ظرفیت 32 گیگابایت رم ...",
+            "price":"19,800,800 تومان"
+          
+        },
+        {
+            
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-30354_f643ac32-89fe-42c1-af17-f3f8b9d2ad71.png",
+            "title":"تبلت سامسونگ مدل Galaxy Tab S8 5G SM-X706B ",
+            "price":"20,800,800 تومان"
+          
+        },
+        {
+           
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-32093_a0970c1e-8c5b-4eba-a033-d173c4699927.png",
+            "title":"تبلت سامسونگ مدل Galaxy Tab A9 Plus 5G (SM-X216)",
+            "price":"18,800,800 تومان"
+          
+        },
+        {
+           
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-44031_bf0262fb-9e15-4d04-939e-7110137484aa.png",
+            "title":"تبلت شیائومی مدل Redmi Pad SE ظرفیت 128 گیگابایت",
+            "price":"28,800,800 تومان"
+            
+        },
+        { 
+            
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-30211_044912cb-4981-40a2-8bb7-08b9784b06f2.png",
+            "title":" تبلت شیائومی مدل Redmi Pad SE ظرفیت 256 گیگابایت  گیگابایت ",
+              "price":"8,800,800 تومان"
+            
+        },
+        {
+            
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-40535_10320a1f-f2f2-497a-ab22-fa9fdc25f6e4.png",
+            "title":"تبلت مایکروسافت مدل  ظرفیت 256 Signature Black ",
+              "price":"10,800,800 تومان"
+           
+        },
+        { 
+            
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-46973_a693cfc0-9f38-4c08-ad39-bcf61c8cb309.png",
+             "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512  گیگابایت",
+            "price":"8,800,800 تومان"
+    
+        }
+       
+
+    ],
+    "lavazm_khanegi_home":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_electric_heater.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_vaccum.png",
+            "alt":"slide2"
+        },
+        {
+            "id":3,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_juicer.png",
+            "alt":"slide3"
+        },
+        {
+            "id":4,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_airConditioner.png",
+            "alt":"slide4"
+        },
+        {
+            "id":5,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_teaMaker.png",
+            "alt":"slide5"
+        },
+        {
+            "id":6,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_iron.png",
+            "alt":"slide6"
+        },
+        {
+            "id":7,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_riceMaker.png",
+            "alt":"slide7"
+        },
+        {
+            "id":8,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_microwave.png",
+            "alt":"slide8"
+        },
+        {
+            "id":9,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_refrigerator.png",
+            "alt":"slide9"
+        },
+        {
+            "id":10,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_coffeMaker.png",
+            "alt":"slide10"
+        },
+        {
+            "id":11,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_meatGreander.png",
+            "alt":"slide11"
+        },
+        {
+            "id":12,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_dishwasher.png",
+            "alt":"slide12"
+        },
+        {
+            "id":13,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_hairDryer.png",
+            "alt":"slide13"
+        },
+       
+        {
+            "id":14,
+            "imge":"https://www.technolife.ir/image/static_homeAppliance_washingMachine.png",
+            "alt":"slide14"
+        }
+       
+    ],
+    "banner_9":[
+        {
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_ThirdTwinBanners_WGuHsq_5ea07229-de6f-4204-adf2-c8f681340239.png",
+            "alt":"slide1"
+        },
+        {
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_ThirdTwinBanners_iPaKQz_8b9cdb22-0fe6-4355-98e3-cd612519a1ad.png",
+            "alt":"slide2"
+        }
+    ],
+    "swiper_8":[
+        {
+           
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-10751_4b91d98c-d196-4dc2-8dfc-2c1a3142940f.png",
+            "title":"تبلت پوکو مدل Poco Pad ظرفیت 256 گیگابایت رم 8 ...",
+            "price":"18,800,800 تومان"
+            
+
+
+        },
+        {
+            
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-7302_39435275-e304-42a2-a3af-37a0aa4a44b1.png",
+            "title":"تبلت جی ال ایکس مدل C8X 3ظرفیت 32 گیگابایت رم ...",
+            "price":"19,800,800 تومان"
+          
+        },
+        {
+            
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-10753_8a1ec12e-890a-4cf0-965d-f6bce8e707c2.png",
+            "title":"تبلت سامسونگ مدل Galaxy Tab S8 5G SM-X706B ",
+            "price":"20,800,800 تومان"
+          
+        },
+        {
+           
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-40533_e96010b3-978d-4817-a933-e801a0cf96fb.png",
+            "title":"تبلت سامسونگ مدل Galaxy Tab A9 Plus 5G (SM-X216)",
+            "price":"18,800,800 تومان"
+          
+        },
+        {
+           
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-21162_d8bdf541-ac93-4820-95b5-0873f7a2716b.png",
+            "title":"تبلت شیائومی مدل Redmi Pad SE ظرفیت 128 گیگابایت",
+            "price":"28,800,800 تومان"
+            
+        },
+        { 
+            
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-4966_6fe6be50-473e-4266-a423-075c611726f9.png",
+            "title":" تبلت شیائومی مدل Redmi Pad SE ظرفیت 256 گیگابایت  گیگابایت ",
+              "price":"8,800,800 تومان"
+            
+        },
+        {
+            
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-6549_3a60c999-bb81-4d6c-a59f-5ddc3ca2d2d2.png",
+            "title":"تبلت مایکروسافت مدل  ظرفیت 256 Signature Black ",
+              "price":"10,800,800 تومان"
+           
+        },
+        { 
+            
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-2263.png",
+             "title":"گوشی موبایل شیائومی مدل 13T Pro 5G ظرفیت 512  گیگابایت",
+            "price":"8,800,800 تومان"
+    
+        }
+       
+
+    ],
+    "swiper_9":[
+        {
+            "p_title_time":"تکنو آف",
+            "id":1,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-52190_3cab08b5-f5f2-4c24-b8fd-083390b31b95.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+            "qeimt_line_through":"8,800,800"
+
+
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":2,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-35789_48cfd9a2-8580-4ed0-88c1-27ffd3634389.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+            "qeimt_line_through":"8,800,800"
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":3,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-36128_f3832f2a-0254-4c29-bb88-373e8bb51f4c.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":4,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-5262_6407a2c7-16db-4dcb-8435-e66fda913996.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        {
+            "p_title_time":"تکنو آف",
+            "id":5,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-35790_3336640c-23db-454c-b941-ffcd6593883a.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+            "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        { 
+            "p_title_time":"تکنو آف",
+            "id":6,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-43786_dc470d89-1471-4194-87e5-621cdda35c9f.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+              "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"9,800,800"
+        },
+        {
+             "p_title_time":"تکنو آف",
+            "id":7,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-23865_c3ba4ede-6dab-4f57-bec6-b700dc30571f.png",
+            "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+              "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        },
+        { 
+            "p_title_time":"تکنو آف",
+            "id":8,
+            "imge":"https://www.technolife.ir/image/small_product-TLP-30163_d7d55a58-207d-41e8-9ff4-97827ec27f8d.png",
+             "title":"هندزفری بلوتوثی سامسونگ مدل Galaxy Buds FE",
+               "price":"8,800,800 تومان",
+            "discount":"5%",
+             "qeimt_line_through":"8,800,800"
+        }
+       
+
+    ],
+    "swiper_10":[
+        {
+
+            "id":1,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_1BHiog_6014f581-a4f0-49f0-9be4-7277e2576e72.png",
+            "title":"مقایسه گلکسی زد فولد ۶ با زد فولد ۵ ",
+            "alt":"slide1"
+        },
+        {
+
+            "id":2,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_H16Hwi_d46ca3fd-bba6-45fc-9190-8b49ac9307bc.png",
+             "title":"آموزش تغییر پسورد انواع مودم ",
+            "alt":"slide2"
+        },
+        {
+
+            "id":3,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_Z1sKMa_59b4cab8-129c-46ec-9248-b7a2645ca480.png",
+            "title":"بهترین بازی های فکری",
+            "alt":"slide3"
+        },
+        {
+
+            "id":4,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_LZ8FAM_e1699e09-6240-4308-a093-fc98033f19b0.png",
+            "title":"بهترین گوشی تا 12 میلیون",
+            "alt":"slide4"
+        },
+        {
+
+            "id":5,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_ddeggY_839efa58-b83f-45e6-b5f4-003dd27d5b44.png",
+            "title":"روش اتصال گوشی به ضبط ماشین",
+            "alt":"slide5"
+        },
+        {
+
+            "id":6,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_ddeggY_839efa58-b83f-45e6-b5f4-003dd27d5b44.png",
+            "title":"روش اتصال گوشی به ضبط ماشین",
+            "alt":"slide5"
+        },
+        {
+
+            "id":7,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_ddeggY_839efa58-b83f-45e6-b5f4-003dd27d5b44.png",
+            "title":"روش اتصال گوشی به ضبط ماشین",
+            "alt":"slide5"
+        },
+        {
+
+            "id":8,
+            "imge":"https://www.technolife.ir/image/banner_ArticleBanners_ddeggY_839efa58-b83f-45e6-b5f4-003dd27d5b44.png",
+            "title":"روش اتصال گوشی به ضبط ماشین",
+            "alt":"slide5"
+        }        
+    ],
+    "article":[
+        {
+            "id":1,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":2,
+            "title_h":"خرید گوشی از تکنولایف ",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":3,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":4,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":5,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":6,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":7,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":8,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":9,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":10,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":11,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":12,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":13,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":14,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":15,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":16,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":17,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":18,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":19,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":20,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":21,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":22,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":23,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":24,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        },
+        {
+            "id":25,
+            "title_h":"فروشگاه اینترنتی تکنولایف",
+            "title_p":"فروشگاه اینترنتی تکنولایف سال‌ها است که به‌عنوان بزرگترین فروشگاه کالای دیجیتال مشغول فعالیت است. از آن‌جا که خرید اینترنتی همواره موجی از بی‌اعتمادی و شک را با خود به‌همراه داشته، نماد الکترونیکی می‌تواند خیال خیلی از افراد را راحت کند.  با داشتن نماد اعتماد الکترونیکی و عضویت در سازمان صنفی رایانه‌ای کشور، همچنین عضویت در انجمن صنفی فروشگاه‌های اینترنتی، فضای ایمن برای خرید آنلاین را برای مشتریان خود ایجاد کرده است. ",
+            "blod_p":"تکنولایف"
+        }
+    ]
+   
+
+}

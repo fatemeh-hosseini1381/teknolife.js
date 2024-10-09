@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- linke -->
+     <link rel="stylesheet" href="./css/style.css">
+     <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+     <link rel="stylesheet" href="./node_modules/swiper/swiper-bundle.min.css">
+     <!--end-link -->
+</head>
+<body>
+    <header class="d-flex flex-column ">
+        <div class="img-reponsiv ">
+            <img src="./imge/photo_2024-08-03_15-48-05.jpg" alt="">
+        </div>
+        <div class="imge_header">
+            <img src="./imge/banner_TopGifDesktop_TLbWi4_3e181411-488b-4d18-a672-78c7acc1fa5f.webp" style="width:100% ; height: 45px;"  alt="">
+        </div>
+        <div class="mein_header d-flex justify-content-between p-2  position-sticky">
+            <div class="left p-2 d-md-flex flex-lg-row justify-content-lg-between   flex-column position-relative">
+                <div class="logo_header  mt-3  d-none d-lg-block">
+                    <img src="./imge/static_technolife-brand.svg"  class="one_img_res" alt="">
+                    <img src="./imge/static_technolife-title.svg"  alt="" >
+                </div>
+           
+                <div class="d-lg-none d-flex justify-content-between align-items-center  w-100 ">
+                    <button class="btn hamber_ger_menu">
+                        <div class="col-md-5 col-10">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </button> 
+                    <div class="hmaber_ger_menu_detail bg-white position-fixed  col-7 col-md-6 p-2">
+                        <div class="d-flex flex-row justify-content-between  ">
+                            <div class="close_hamber_ger_menu">
+                                <img src="./imge/close.png" class="w-10" alt="">
+                            </div>  
+                            <img src="./imge/static_technolife-brand.svg" class="w-20" alt="">
+                        </div>
+                        
+                    </div>
+                    <div class="imge_res gap-2 mt-3 ">
+                            <img src="./imge/static_technolife-brand.svg" class="img-one" alt="">
+                            <img src="./imge/static_technolife-title.svg" class="img-two" alt="" >
+                    </div>
+                    <div class="enter_res d-flex justify-content-around d-lg-none col-sm-1 col-2 mt-1 ">
+                            <p class="mt-1 ">ورود</p>
+                            <img src="./imge/left-arrow.png" class="mt-2" style="width: 20x; height: 20px;"  alt="">
+
+                    </div>
+                </div>
+                    
+                <div class="whole-search d-flex justify-content-between w-100 gap-3">
+                    <div class="search w-100 p-3  rounded-4  d-lg-flex d-none  gap-2 ">
+                        <img class="text-center mt-1" src="./imge/search-interface-symbol.png" style="width: 25px; height: 25px;" alt="">
+                        <input type="text" class="w-100 p-0 " placeholder="محصول ,برنده و دسته مورد نظر را جستوجو کنید">
+                    </div>
+
+                    <!-- responsive -->
+                        
+                    <div class="search_res w-90 p-1  mt-3 d-flex d-lg-none rounded-1  gap-2 ">
+                        <img class="text-center  mt-1" src="./imge/search-interface-symbol.png" style="width: 23px; height: 23px;" alt="">
+                        <input type="text" class="w-100 p-1 " placeholder=" جستوجو...">
+                    </div>
+                    <div class="d-lg-none rounded-3 border-opacity-10 bg-white mt-3 " >
+                        <img src="./imge/shopping-cart.png" style="width: 27px; height: 32px;" alt="">  
+                    </div>
+                        
+                    <!-- end_responsive -->
+                </div> 
+              
+            </div>
+            <div class="right  d-lg-flex flex d-sm-none d align-items-center  justify-content-around">
+                <div class="btn-enter rounded-3 col-lg-8 col-xxl-6 bg-white p-2 d-flex flex-row justify-content-around text-center" style="height: 42px;">
+                    <span><a href="#">ورود</a></span>
+                    <div class="line"></div>
+                    <span><a href="#">ثبت نام</a></span>
+                </div>
+                <button class="rounded-3 border-opacity-10 bg-white " style="width: 14%; height: 40%;" >
+                    <img src="./imge/shopping-cart.png" style="width: 27px; height: 32px;" alt="">  
+                </button>
+            </div>
+        </div>
+        <div class="w-100  header-menu d-flex ">
+            
+            <ul class="ul-header   p-2 d-xl-flex d-none  gap-1 list-unstyled ">   
+            </ul>
+        </div>
+    </header> 
+    <div class="parent_whole ">
+         <!-- first_swiper -->
+         <div class="swiper swiper-z mySwiper  d-xl-block d-none ">
+            <div class="swiper-wrapper">
+            
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>  
+        <!-- first_swiper --> 
+        <!-- res_swiper -->
+        <div class="swiper mySwiper_res d-xl-none d-block bg-info">
+            <div class="swiper-wrapper swiper-wrapper_res">
+            
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>  
+        <!-- res_swiper --> 
+        <!-- Swiper_second -->
+        <div class="swiper swiper-z mySwiper_2 mt-5 w-100  d-flex justify-content-between position-relative">
+            <div class="swiper-wrapper swiper-wrapper_2">
+            
+            </div>
+            <div class="btn_pre">
+                <div class="swiper-button-next swiper-button-next_2 p-2"></div>
+            </div>
+            <div class="btn_pre">
+                <div class="swiper-button-prev swiper-button-prev_2"></div>
+            </div>
+        </div>
+
+        <!-- Swiper_second -->
+
+        <!-- swiper_third -->
+
+        <div class="swiper_third  d-flex flex-column mt-3 justify-content-around align-items-center  w-95">
+            <div class="w-100  rounded-3  p-3">
+                <div class="seconde_div_swiper_third rounded-3 w-100  d-flex ">
+                    <img src="./imge/static_technoffHeader.svg" class="object-fit-cover w-90">
+                    <div class="d-flex justify-content-end align-items-center gap-2">
+                        <a href="" class="custom-style text-white fw-bolder no-underline">نمایش همه </a>
+                        <img src="./imge/chevron-left-solid.svg" style="width: 10px; color: beige;"  alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="swiper swiper-z  mySwiper_3 mt-5 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_3">
+                
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_3 p-2"></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_3"></div>
+                </div>
+            </div>
+        
+        </div>  
+        <!-- swiper_third -->
+        
+
+        <!-- banner_1 -->
+        <div class="banner   d-flex justify-content-around align-items-center mt-5">
+           
+        </div>
+        <!-- banner1 -->
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(240 240 240); border-radius: 15px; margin: 0 auto;">
+
+            <div class="rounded-3 w-100  d-flex d-flex justify-content-between p-4">
+                <h5 class="">پرچمداران هوشمند</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255);">  نمایش همه</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_4 mt-3 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_4">
+                
+                    
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_4 p-2"></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_4"></div>
+                </div>
+            </div>
+        
+        </div>  
+        <!-- swiper_four -->
+        <!--banner2 -->
+            <div class="">
+                <h3 class="text-center mt-5">برترین های موبایل</h3>
+            </div>
+            
+            <div class="banner_2  container mt-3 d-flex  justify-content-center align-items-center w-100">
+        
+            </div>
+        <!--banner2 -->
+        <!-- banner_3 -->
+            <div class="banner_3  w-95  mt-4 m-auto">
+                
+            </div>
+        <!-- banner_3 -->
+
+        <!-- swiper_five -->
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(240 240 240); border-radius: 15px; margin: 0 auto;">
+
+            <div class=" rounded-3 w-100 d-flex d-flex justify-content-between p-4">
+                <h5 class="">لب تاپ هادرتکنو لایف</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255);">  نمایش همه</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_5 mt-1 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_5">
+                
+                    
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_5 "></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_5"></div>
+                </div>
+            </div>
+
+        </div>  
+        <!-- swiper_five -->
+
+        <!-- banner_4 -->
+        <div class="">
+            <h4 class="text-center mt-5">برترین های لب تاپ</h4>
+        </div>
+        
+        <div class="banner_4  container mt-3 d-flex  justify-content-center align-items-center col-12 col-sm-12">
+
+        </div>
+        <!-- banner_4 -->
+        <!-- banner_5 -->
+        <div class="banner_5  mt-5 m-auto w-95 d-flex">
+        
+        </div>
+        <!-- banner_5 -->
+        <!-- table --> 
+            
+        <div class="table-price w-95  m-auto d-flex justify-content-around mt-5">
+            <!-- section_1 -->
+            <section class="section_1 p-3  d-flex flex-column ">
+                <h5>گوشی بر اساس قیمت</h5>
+                <ul class="gap-2  d-flex flex-wrap justify-content-around mt-4">
+                        
+                </ul>
+            </section>
+
+
+
+            <!-- section_2 -->
+            <section class="section_2 p-3">
+                <h5>گوشی بر اساس قیمت</h5>
+                <ul class="gap-2 flex-wrap  d-flex justify-content-around mt-4">
+                    
+                </ul>
+
+            </section>
+        </div>
+        
+
+
+        <!-- table -->
+        <!-- banner_6 -->
+        <div class="">
+            <h4 class="text-center mt-5">برترین های هندزفری</h4>
+        </div>
+        
+        <div class="banner_6  container mt-3 d-flex  justify-content-center align-items-center w-100">
+            
+            
+        </div>
+        <div class="banner_7 container mt-3 d-flex  justify-content-center align-items-center w-100">
+            
+            
+        </div>
+        <!-- banner_8 -->
+        <div class="banner_8 mt-5 m-auto w-95 d-flex">
+        </div>
+        <!-- banner_8 -->
+
+       <!-- swiper_six -->
+        <div class="show_brand w-95 m-auto mt-5   d-flex flex-column justify-content-between border-warning border-3 ">
+            <div class="left_1 w-100 bg-warning d-flex flex-row  justify-content-around align-items-center rounded-bottom-1">
+                <div class=" mt-3 w-10  d-flex   justify-content-center align-items-center gap-1 ">
+                    <img src="./imge/octagon.png" class="" alt="">
+                    <p class="fw-bold  mt-3">برندهای منتخب</p>
+                </div>
+            
+            </div>
+            <div class="right_1 bg-body-danger w-100">
+                <div class="swiper swiper-z mySwiper_6 mt-3 w-100  d-flex justify-content-between position-relative">
+                    <div class="swiper-wrapper swiper-wrapper_6 p-2">
+                    
+                        
+                    </div>
+                    <div class="btn_pre">
+                        <div class="swiper-button-next swiper-button-next_6 "></div>
+                    </div>
+                    <div class="btn_pre">
+                        <div class="swiper-button-prev swiper-button-prev_6"></div>
+                    </div> 
+                </div>
+
+            </div>
+        </div>
+        <!-- swiper_six -->
+
+    <!-- swiper_seven -->
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(240 240 240); border-radius: 15px; margin: 0 auto;">
+
+            <div class="header_swiper_seven rounded-3  w-100  d-flex d-flex justify-content-between p-4">
+                <h5 class="">تبلت ها در تکنولایف</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255);">  نمایش همه</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_7 mt-2 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_7">
+                
+                    
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_7 "></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_7"></div>
+                </div>
+            </div>
+
+        </div>  
+     
+     <!-- swiper_seven -->
+        <section class="lavazem_khanegi_homepage w-95 m-auto  mt-4">
+            <h5 class="p-3">
+                <span class="span_one">لوازم خانگی</span>
+                <span class="span_two">خانه و اشپز خانه</span>
+            </h5>
+            <div class="maine_content w-95 d-flex flex-column m-auto">
+                <div class="d-flex flex-row justify-content-start align-content-center flex-wrap w-100">
+
+                </div>
+            </div>
+        </section>
+        <!-- banner_9 -->
+        <div class="banner_9 mt-5 m-auto w-95 d-flex">
+        </div>
+       <!-- banner_9 -->
+
+
+       <!-- swiper_eight -->
+
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(28, 186, 0); border-radius: 15px; margin: 0 auto;">
+
+            <div class="header_swiper_eight  rounded-3 w-100  d-flex d-flex justify-content-between p-4">
+                <h5 class="">لوازم جانبی منتخب</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255);">  نمایش همه</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_8 mt-2 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_8">
+                
+                    
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_8 "></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_8"></div>
+                </div>
+            </div>
+
+        </div>  
+     <!-- swiper_eight -->
+     <!-- swiper_nine -->
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(233, 233, 233); border-radius: 15px; margin: 0 auto;">
+
+            <div class="header_swiper_nine rounded-3 w-100  d-flex d-flex justify-content-between p-4">
+                <h5 class="">لوازم خانگی تکنولایف</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255);">  نمایش همه</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_9 mt-2 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_9">
+                
+                    
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_9 "></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_9"></div>
+                </div>
+            </div>
+
+        </div>  
+        <!-- swiper_nine -->
+        <!-- swiper_ten -->
+        <div class="  d-flex flex-column mt-5 justify-content-around align-items-center p-0 w-95 " style="border: 3px solid rgb(0, 37, 202); border-radius: 15px; margin: 0 auto;">
+
+            <div class="header_swiper_ten rounded-3 w-100  d-flex d-flex justify-content-between p-4">
+                <h5 class="">ازوبلاگ تکنولایف</h5>
+                <div class="d-flex justify-content-start align-items-center gap-2 ">
+                    <a href="" class="fw-bolder" style="outline: none; text-decoration: none; color: rgb(121, 124, 255); font-size: 14px;"> نمایش بیشتر در وبلاگ</a>
+                    <img src="./imge/left-arrow-backup-2-svgrepo-com.svg" style="width: 15px; color: rgb(128, 99, 255);"  alt="">
+                </div>
+            </div>
+        
+            <div class="swiper swiper-z mySwiper_10 mt-2 w-100  d-flex justify-content-between position-relative">
+                <div class="swiper-wrapper swiper-wrapper_10">
+                
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-next swiper-button-next_10 "></div>
+                </div>
+                <div class="btn_pre">
+                    <div class="swiper-button-prev swiper-button-prev_10"></div>
+                </div>
+            </div>
+
+        </div> 
+        <!-- swiper_ten -->
+        <hr class="mt-5 w-95 m-auto ">
+        <!-- article -->
+        <div class="article mt-4  m-auto w-95 p-4">
+        
+            
+        </div>
+        <!-- article -->
+
+        <!-- up_down -->
+        <div id="up_down" class=" p-2 d-flex justify-content-start align-items-center h-50">
+            <div id="toggleButton"  style="width: 11%;" class="toggleButton p-2 d-flex justify-content-lg-start  gap-2  align-items-center">
+                <p class="text-center mt-2 text-primary fw-bold">نمایش بیشتر</p>
+                <img src="./imge/chevron (1).png" class="text-primary"   style="width: 12%; height: 2%;" alt="">
+            </div>
+        
+        
+        </div>
+     
+     
+
+        <!-- footer-whole -->
+        <footer class="w-95 m-auto rounded-5 p-2 mt-5">
+            <div class="up_footer w-100 d-xl-flex justify-content-xl-between align-items-xl-center gap-5 p-2">
+                <button class="scroll_top  col-xl-2 col-12  d-flex justify-content-center justify-content-xl-around align-items-center p-1 rounded-2">
+                    <p class="text-center mt-2 fw-bold">بازگشت به بالا</p>
+                    <img src="./imge/up-arrow.png" class="fw-bold" style="width: 10%; height: 2%;" alt="">
+                </button>
+                <div class="w-100  d-flex justify-content-xl-end justify-content-around">
+                    <img src="./imge/static_logo_techno.svg" style="width: 15%;" class="" alt="">
+                </div>
+                <div class="information  d-xl-none d-flex flex-column mt-3">
+                    <div class="phone d-flex flex-column justify-content-around align-items-center">
+                        <img src="./imge/telephone.png" style="width: 5%;" alt="">
+                        <div class="d-flex">
+                            <label for="" class="text-black">تلفن:</label>
+                            <span class="text-black">021 - 91077500</span>
+
+                        </div> 
+                    </div>
+                    <div class="email d-flex flex-column justify-content-around align-items-center">
+                        <img src="./imge/secure-mail.png"style="width: 5%;" alt="">
+                        <div class="d-flex">
+                            <label for="" class="text-black">ایمیل:</label>
+                            <span class="text-black">info@technolife.ir</span>
+        
+                        </div> 
+                    </div>
+                </div>
+            
+            </div>
+            <hr class="mt-3 w-95 m-auto text-white">
+            <div class="mid_footer mt-2 p-4 d-flex justify-content-between d-xl-flex d-none">
+                
+            </div >
+
+
+            
+            <div class="down w-75  p-2 d-md-flex justify-content-md-between d-none  mt-4">
+            
+            </div>
+            <div class=" down_res w-100  p-2 d-flex justify-content-between d-md-none  mt-4" >
+            
+            </div>
+        </footer>
+    </div>
+     <script src="./js/script.js" type="module"></script>
+     <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+     <script src="./node_modules/axios/dist/axios.min.js"></script>
+     <script src="./node_modules/swiper/swiper-bundle.min.js"></script>
+</body>
+</html>
